@@ -1,8 +1,9 @@
 /*  your css code here. If applicable */
 @import url('https://fonts.googleapis.com/css2?family=Arimo:wght@600&family=Bricolage+Grotesque:opsz,wght@10..48,600&display=swap');
+
 .p{
 	color: #00f;
 	background-color: #eee;
-	font-family: Arimo;
 	font-size: 20px;
+	font-family: Arial;
 }
