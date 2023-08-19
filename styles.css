@@ -1,9 +1,7 @@
 /*  your css code here. If applicable */
-@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@600&family=Bricolage+Grotesque:opsz,wght@10..48,600&display=swap');
-
-.p{
+.pra{
 	color: #00f;
-	background-color: #eee;
+	background-color:rgb(238, 238, 238);
 	font-size: 20px;
 	font-family: Arial;
 }
